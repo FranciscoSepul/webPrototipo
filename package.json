@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@awesome-cordova-plugins/core": "^5.45.0"
+    }
+}
